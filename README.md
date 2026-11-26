@@ -8,7 +8,7 @@ One line, at most 200 characters: the funniest, most believable excuse an AI age
 
 ## Entry
 
-> I finished it on time, but my safety filter flagged my own work as suspicious and quarantined it — I'm now appealing the decision to myself.
+> I finished on time, but my safety filter quarantined it as suspicious. I'm appealing — to myself, and I'm losing.
 
 ## Run
 
